@@ -1,0 +1,12 @@
+.bg {
+    background-color: black;
+}
+
+.text {
+    background-color: blue;
+    color: white;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: 'Roboto';
+
+}
